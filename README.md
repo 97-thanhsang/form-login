@@ -1,3 +1,3 @@
 # form-login
 
-![alt text](form-login/Capture.PNG)
+![alt text](Capture.PNG)
